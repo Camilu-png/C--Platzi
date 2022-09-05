@@ -1,0 +1,15 @@
+/home/camilu/Documentos/Repositorios/C# Platzi/bin/Debug/net6.0/C# Platzi
+/home/camilu/Documentos/Repositorios/C# Platzi/bin/Debug/net6.0/C# Platzi.deps.json
+/home/camilu/Documentos/Repositorios/C# Platzi/bin/Debug/net6.0/C# Platzi.runtimeconfig.json
+/home/camilu/Documentos/Repositorios/C# Platzi/bin/Debug/net6.0/C# Platzi.dll
+/home/camilu/Documentos/Repositorios/C# Platzi/bin/Debug/net6.0/C# Platzi.pdb
+/home/camilu/Documentos/Repositorios/C# Platzi/obj/Debug/net6.0/C# Platzi.csproj.AssemblyReference.cache
+/home/camilu/Documentos/Repositorios/C# Platzi/obj/Debug/net6.0/C# Platzi.GeneratedMSBuildEditorConfig.editorconfig
+/home/camilu/Documentos/Repositorios/C# Platzi/obj/Debug/net6.0/C# Platzi.AssemblyInfoInputs.cache
+/home/camilu/Documentos/Repositorios/C# Platzi/obj/Debug/net6.0/C# Platzi.AssemblyInfo.cs
+/home/camilu/Documentos/Repositorios/C# Platzi/obj/Debug/net6.0/C# Platzi.csproj.CoreCompileInputs.cache
+/home/camilu/Documentos/Repositorios/C# Platzi/obj/Debug/net6.0/C# Platzi.dll
+/home/camilu/Documentos/Repositorios/C# Platzi/obj/Debug/net6.0/refint/C# Platzi.dll
+/home/camilu/Documentos/Repositorios/C# Platzi/obj/Debug/net6.0/C# Platzi.pdb
+/home/camilu/Documentos/Repositorios/C# Platzi/obj/Debug/net6.0/C# Platzi.genruntimeconfig.cache
+/home/camilu/Documentos/Repositorios/C# Platzi/obj/Debug/net6.0/ref/C# Platzi.dll
